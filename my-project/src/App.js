@@ -9,6 +9,7 @@ import { HiLightningBolt } from "react-icons/hi";
 import styles from "./App.module.css";
 
 
+
 function App() {
   const[curColor,setCurColor]=useState("#FF9933");
   const[curPos,setCurPos]=useState('');
